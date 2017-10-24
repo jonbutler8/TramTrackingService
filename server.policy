@@ -1,0 +1,5 @@
+grant
+{
+   permission java.net.SocketPermission "*:846*",
+          "listen,connect,accept,resolve";
+};
